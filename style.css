@@ -1,0 +1,56 @@
+button{
+    font-size: 24px;
+    background: linear-gradient(to right, #3BC2E0 45%, #7B4BE2 100%);
+    border-radius: 15px;
+    color: white;
+}
+
+#view{
+    width: 140px;
+    height: auto;
+    position: relative;
+    margin: auto 75px 20px 75px;
+}
+
+.operation{
+    width: 140px;
+    height: auto;
+}
+
+#div{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: 180px auto;
+}
+
+h1{
+    width: auto;
+    height: auto;
+    background-color: #8960e1;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: #b0dee9;
+}
+
+#footer{
+    width: auto;
+    height: auto;
+    background-color: #8960e1;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+#clear{
+    width: 140px;
+    height: auto;
+    position: relative;
+    margin: 20px 75px auto 75px;
+}
